@@ -6,6 +6,6 @@ pip install -r requirements.txt
 
 
 ## building
-py -m eel web --noconsole
+py -m eel main.py web --noconsole
 
 replace "py" with whatever your python shortcut is
